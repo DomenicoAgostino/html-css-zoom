@@ -1,0 +1,35 @@
+/* FLEX utils */
+.d-flex {
+  display: flex;
+}
+
+.space-between {
+  justify-content: space-between;
+}
+
+
+/* FLEX utils */
+
+
+/* DEBUG */
+
+.debug {
+  background-color: brown;
+  border: 1px solid black;
+}
+
+.h50 {
+  height: 50px;
+}
+
+.h100{
+  min-height: 100px;
+}
+
+.h200 {
+  min-height: 200px;
+}
+
+.h500{
+  min-height: 500px;
+}
