@@ -26,6 +26,12 @@
   width: 100%;
 }
 
+
+
+.fa-microphone-slash {
+  font-size: 10px;
+}
+
 .pinco-pallo {
   color: white;
   position: absolute;
@@ -50,12 +56,13 @@ footer li{
   flex-direction: row;
   text-align: center;
   margin-right: 20px;
+  color: white;
   
 }
 
 
 .other {
-  font-size: 18px;
+  font-size: 12px;
   margin-bottom: 6px;
 }
 
@@ -65,6 +72,27 @@ footer li{
   font-size: 10px;
 }
 
+
+.fa-share-from-square {
+  color: rgb(75, 200, 0);
+}
+
+
+.extra-solid {
+  font-size: 20px;
+}
+
+
+.nav-right{
+  background-color: rgb(74, 74, 74);
+  color: red;
+  height: 100%;
+  padding: 0 20px;
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+  font-size: 13px;
+}
 
 
 
