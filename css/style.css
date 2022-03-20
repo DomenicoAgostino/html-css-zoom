@@ -26,7 +26,7 @@
   width: 100%;
 }
 
-p {
+.pinco-pallo {
   color: white;
   position: absolute;
   top: 112px;
@@ -43,6 +43,29 @@ p {
 
 
 /* footer */
+
+
+footer li{
+  cursor: pointer;
+  flex-direction: row;
+  text-align: center;
+  margin-right: 20px;
+  
+}
+
+
+.other {
+  font-size: 18px;
+  margin-bottom: 6px;
+}
+
+.fa-chevron-up {
+  justify-content: center;
+  align-items: center;
+  font-size: 10px;
+}
+
+
 
 
 
