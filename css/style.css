@@ -1,0 +1,54 @@
+/* header  */
+.start {
+  color: white;
+  background-color: rgb(74, 74, 74);
+  padding: 4px 5px;
+  border-radius: 5px;
+  margin: 3px;
+  cursor: pointer;
+
+}
+
+/* main  */
+
+.box-photo {
+  width: 250px;
+  border: 1px solid black;
+  margin: 9px 1px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+
+}
+
+.box-photo img {
+  width: 100%;
+}
+
+p {
+  color: white;
+  position: absolute;
+  top: 112px;
+  left: 1px;
+  background-color: rgb(103, 113, 125);
+  bottom: 0px;
+  padding: 4px;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+
+/* main */
+
+
+/* footer */
+
+
+
+
+
+
+
+
+/* footer */
