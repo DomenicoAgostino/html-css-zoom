@@ -36,5 +36,6 @@ footer {
   background-color: rgb(34, 34, 34);
   align-items: center;
   padding-left: 12px;
+  overflow: hidden;
 }
 
